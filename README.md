@@ -1,33 +1,28 @@
 # Song Xiangrong
 
-Freelance Flutter / iOS / full-stack engineer. Ex-JD.com, ex-Anker. Remote.
+Flutter / iOS / full-stack. I take a product from the mobile client through the API and the store release.
 
-Two products you can open now:
+Ex-JD.com, ex-Anker. Remote.
 
-## 新境动映 NovaFrame
+## Work you can open
 
-AI agents for motion comics, anime, and short-form series: character consistency, boards-to-picture, QA, and overseas delivery, wired into a real production line. Private deployment.
-
-https://novaframe.heysony.com
-
-## 菱镜 Lingjing
-
-Executable digital employees for companies. Agents can use the browser, documents, data analysis, and Feishu. Multi-tenant, job queue, scheduled workflows, file workspace, private deployment. Nine industries, including HR, commerce, finance, and content.
-
-https://lingjing.heysony.com
-
-## Hire me
-
-- Site: https://heysony.com
-- Upwork: https://www.upwork.com/freelancers/sonyflutterdeveloper
-
-## Also on GitHub
-
-| Repo | What it is |
+| Product | What it is |
 | --- | --- |
-| [prism](https://github.com/SONGBUILD/prism) | Small OpenAI-compatible gateway with a console and playground |
-| [ble_packet](https://github.com/SONGBUILD/ble_packet) | Split BLE writes, reassemble notifications, CRC-16 |
-| [llm_json](https://github.com/SONGBUILD/llm_json) | Read JSON out of model text |
-| [node-ship-api](https://github.com/SONGBUILD/node-ship-api) | Small Express API: health, JWT, Docker |
+| [NovaFrame](https://novaframe.heysony.com) | AI agents for motion comics, anime, and short-form series: character consistency, boards to picture, QA, and overseas delivery |
+| [Lingjing](https://lingjing.heysony.com) | Digital employees for a company: browser, documents, data analysis, Feishu, queues, schedules, private deployment |
 
-Company product source stays private. The two sites above are the demos.
+Product source stays private. These two sites are the demos.
+
+## Code to read
+
+| If the job is | Open |
+| --- | --- |
+| A Flutter app with a clear structure | [flutter-prod-kit](https://github.com/SONGBUILD/flutter-prod-kit) |
+| An HTTP API with auth and Docker | [node-ship-api](https://github.com/SONGBUILD/node-ship-api) |
+| An AI console with keys, billing, and streaming chat | [prism](https://github.com/SONGBUILD/prism) |
+| BLE firmware writes or sensor notifications | [ble_packet](https://github.com/SONGBUILD/ble_packet) |
+
+## Contact
+
+- https://heysony.com
+- https://www.upwork.com/freelancers/sonyflutterdeveloper
